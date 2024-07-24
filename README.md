@@ -1,2 +1,2 @@
 # AccountingWeb
-Implement shopping webpage using Angular
+Implement accounting website using Angular
